@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: qianshang's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+collections:
+  docs:
+    output: true
